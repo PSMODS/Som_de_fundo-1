@@ -2,9 +2,7 @@
 
 Console simples e leve para tocar fundos musicais em cultos e eventos, desenvolvido com Python e CustomTkinter.
 
-🔊 **Download (32 MB) — Nova Versão:**  
-[📥 Clique para baixar](https://drive.google.com/file/d/1rO-22uEjcUjhtLAQ94sp_NV64Xvn9Jjb/view?usp=sharing)
-
+🔊 **Download EM Releaser
 ## 🚀 Recursos
 
 - Interface moderna e responsiva
